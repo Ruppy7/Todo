@@ -1,2 +1,2 @@
 # Todo
-Single page todo list with django 
+Single page todo list using django 
